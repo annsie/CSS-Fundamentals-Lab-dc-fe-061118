@@ -8,5 +8,5 @@ img{display:block;margin-left:auto;margin-right:auto}
 nav{text-align:center;}
 nav a{background-color:grey;padding-left:10px;padding-right:10px;}
 figcaption{text-align:center;font-size:medium;}
-#featured-property p{text-align:center;max-width:800px;}
+#featured-property p{text-align:center;max-width:800px;margin: 0 auto;}
 #details div{display:block;float:left;background-color:red;text-align:center;width:25%;}
